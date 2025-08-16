@@ -1,5 +1,0 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-
-divers = pd.read_csv('deepest-diving-animals.csv')
-print(divers) #display the dataframe
